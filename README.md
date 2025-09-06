@@ -36,7 +36,8 @@ Zomato-Data-Analytics-Project/
 ## 📊 Dashboards
 
 ### 📍 Tableau Dashboard
-![Tableau Dashboard](Tableau/screenshots/tableau_dashboard.png)
+![Tableau Dashboard](Tableau/dashboard_home_zomato.png)
+![Tableau Dashboard](Tableau/dashboard_restuarant_info_zomato.png)
 
 **Highlights:**
 - Top cuisines by orders & reviews  
@@ -46,7 +47,8 @@ Zomato-Data-Analytics-Project/
 ---
 
 ### 📍 Power BI Dashboard
-![Power BI Dashboard](PowerBI/screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](Power_BI/dashboard_detailed_analysis_powerbi.png)
+![Power BI Dashboard](Power_BI/dashboard_overview_powerbi.png)
 
 **Highlights:**
 - KPI Cards → Total Restaurants, Avg Ratings, Reviews  
@@ -56,7 +58,7 @@ Zomato-Data-Analytics-Project/
 ---
 
 ### 📍 Excel Dashboard
-![Excel Dashboard](Data/screenshots/excel_dashboard.png)
+![Excel Dashboard](Excel/dashboard_excel.png)
 
 **Highlights:**
 - Pivot tables for city & cuisine insights  
@@ -68,7 +70,7 @@ Zomato-Data-Analytics-Project/
 ## 🔑 Key Insights
 - **Cuisine Popularity:** North Indian, Chinese, and Fast Food dominate customer demand.  
 - **City Trends:** Bangalore, Delhi, and Mumbai lead in restaurant density.  
-- **Customer Ratings:** Successful restaurants maintain ratings **> 4.0**.  
+- **Customer Ratings:** Successful restaurants maintain ratings **2.7**.  
 - **Price vs Rating:** High pricing ≠ higher ratings; customer satisfaction depends more on service & food quality.  
 
 ---
